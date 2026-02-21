@@ -65,3 +65,9 @@ Created a “high-risk” user segment:
 - Zero Paid payments ever  
 This segment is useful for churn prevention and payment recovery campaigns.
 
+## Results (from sample data)
+- Revenue by country: UK is highest, followed by IN, then US.
+- Active subscriptions as of 2025-03-15: Ava, Mia, Liam, Ethan, Isla, Arjun.
+- Data gaps: Ethan has an active subscription but no payment records.
+- High-risk users: Sophia has failed payments and no successful payment history.
+
