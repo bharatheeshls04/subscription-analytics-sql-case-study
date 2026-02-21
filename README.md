@@ -35,6 +35,9 @@ Run:
 ### Step 3 — Run analysis queries
 Run:
 - `analysis_queries.sql`
+- 
+### Run order
+1) schema.sql → 2) data.sql → 3) analysis_queries.sql
 
 ## Tasks Completed
 ### Part A — Core Reporting (JOINs)
